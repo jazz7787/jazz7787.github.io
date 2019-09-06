@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/jazz7787/linuxadventures/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will use this site to document my own personal journey with linux and also keep me from forgetting how to do stuff on linux.
 
 ### Markdown
 
