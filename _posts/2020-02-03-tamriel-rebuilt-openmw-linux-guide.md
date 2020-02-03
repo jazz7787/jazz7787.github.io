@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Tamriel Rebuilt with OpenMW under Ubuntu Linux"
 date: 2020-02-03
 ---
