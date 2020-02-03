@@ -1,9 +1,3 @@
----
-title: "Tamriel Rebuilt with OpenMW under Ubuntu Linux"
-date: 2020-02-03
----
-
-
 Nostalgia hit me a couple of months ago, so I decided to reinstall Morrowind under OpenMW. Since I was familiar with the story and quests,I wanted more out of the game and the setting.
 [Tamriel Rebuilt](https://www.tamriel-rebuilt.org/) was the obvious solution. This amazing mod has a storied development history, with many regions in Tamriel added over the years.
 Below are the steps that I followed to install the clean stack above.
