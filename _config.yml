@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 name: Radu Chirovici
-markdown: kramdown
+#markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
